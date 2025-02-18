@@ -1,0 +1,2 @@
+### Refer to ```training_script/mobilenetv3-plantdisease.ipynb``` for training script of mobile net v3 small model
+### Dataset used -> [Kaggle Line](https://www.kaggle.com/datasets/smokeyscraper/plant-diseases-dataset)
